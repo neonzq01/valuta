@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">valuta</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="japaneseYEN">YEN</string>
+    <string name="russianRUB">RUB</string>
+    <string name="usaUSD">USD</string>
+    <string name="turskishLRA">LRA</string>
+
+    <string name="japanese">Japanese\nYena</string>
+    <string name="russian">Russian\nRuble</string>
+    <string name="american">USA\nDollar</string>
+    <string name="turkish">Turkish\nLira</string>
+
+    <string name="tokyo">Tokyo</string>
+    <string name="moscow">Moscow</string>
+    <string name="washington">Washington</string>
+    <string name="ankara">Ankara</string>
+
+    <string name="flag">flag</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <color name="ASD">#000000</color>
+    <color name="QWE">#54575B</color>
+    <color name="ZXC">#808080</color>
+
+
+</resources>
